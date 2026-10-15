@@ -109,19 +109,22 @@ Blue Team & SOC Foundations  →  Detection Engineering      →  Cloud Security
 
 > **Learning priorities, not completed certifications or professional experience.** Cloud security is a future direction, and SIEM platforms such as Splunk and Microsoft Sentinel are not listed as hands-on skills.
 
-## GitHub Activity
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=talhasultan014&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=talhasultan014&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<br />
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=talhasultan014&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+<a href="https://github.com/talhasultan014">
+  <img src="https://img.shields.io/badge/View_Contribution_Calendar-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Contribution Calendar" />
+</a>
 
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=talhasultan014&label=Profile%20Views&color=0891b2&style=flat" alt="Profile view counter" />
+<a href="https://github.com/talhasultan014?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_Repositories-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
+</a>
 
 </div>
 
@@ -129,10 +132,13 @@ Blue Team & SOC Foundations  →  Detection Engineering      →  Cloud Security
 
 <div align="center">
 
-**Interested in security monitoring, understanding attacks, and building practical defenses.**
+**Focused on security monitoring, understanding attack techniques, and building practical defenses.**
 
-[![Email](https://img.shields.io/badge/Get_in_Touch-Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talhasultan014@gmail.com)
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:163B65,100:0B1220&height=100&section=footer" width="100%" alt="Footer" />
+<a href="mailto:talhasultan014@gmail.com">
+  <img src="https://img.shields.io/badge/Get_in_Touch-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
+
